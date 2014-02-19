@@ -78,11 +78,6 @@ REALLY FUCKING FIXED
 FIX
 better ignores
 More ignore
-more ignores
-more ignores
-more ignores
-more ignores
-more ignores
 more ignored words
 more fixes
 really ignore ignored worsd
@@ -375,3 +370,7 @@ it is hump day _^_
 happy monday _ bleh _
 after of this commit remember do a git reset hard
 someday I gonna kill someone for this shit...
+add female to this list
+this missed the last checkin...
+delete weird file
+update data
